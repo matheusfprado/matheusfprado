@@ -20,15 +20,6 @@ Sempre buscando criar interfaces rápidas, fluidas e cheias de personalidade.
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,git,github,vscode" height="50"/>
 </p>
 
----
-
-## 💾 Setup Gamer
-<p align="center">
-  <img src="https://i.imgur.com/Z8aScaL.gif" height="300" />
-</p>
-
----
-
 ## 🔥 Estatísticas (tema gamer)
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=matheusfprado&show_icons=true&theme=radical&title_color=ff007f&icon_color=00f7ff&text_color=ffffff&bg_color=0d1117" />
