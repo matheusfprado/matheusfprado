@@ -1,6 +1,6 @@
 <!-- Banner Animado -->
 <p align="center">
-  <img src="https://i.imgur.com/Mf5w7I8.gif" width="100%" />
+  <img src="./banner.png" width="100%" />
 </p>
 
 <h1 align="center">
@@ -86,7 +86,7 @@ Sempre buscando criar interfaces rápidas, fluidas e cheias de personalidade.
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/vw4Z8zl.gif" width="200" />
+  <img src="./banner.png"  width="200" />
   <br/>
   <strong>Matheus Prado — Nível Atual: Evoluindo ⚡</strong>
 </p>
