@@ -71,7 +71,7 @@ Sempre buscando criar interfaces rápidas, fluidas e cheias de personalidade.
 
 ## 📫 Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheusfprado/"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+  <a href="[https://www.linkedin.com/in/matheusfprado/](https://www.linkedin.com/in/matheus-felipe-do-prado-267079249/)"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 </p>
 
 ---
